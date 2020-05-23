@@ -6,15 +6,12 @@ excerpt: "Συνεργατικός Υπολογισμός. Συστήματα CS
 uri: "http://e-class.ionio.gr/courses/DCS235/"
 code: ΗΥ665
 semester: 4
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 
 ects: 4
+books:
+  - isbn_960_512_503_X
+  - isbn_978_960_461_232_1
 ---
-
-
-Βιβλιογραφία: 
-  - [“Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση”, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007](https://service.eudoxus.gr/search/#a/id:12304/0)
-  - [“ΣΥΝΕΡΓΑΤΙΚΗ ΤΕΧΝΟΛΟΓΙΑ”, Επιμέλεια ΝΙΚΟΣ ΑΒΟΥΡΗΣ, ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΓΙΑΝΝΙΔΗΣ, ΒΑΣΙΛΗΣ ΚΟΜΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-232-1, 2009](https://service.eudoxus.gr/search/#a/id:13888/0)
-  
 

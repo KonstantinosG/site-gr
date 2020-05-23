@@ -6,15 +6,12 @@ excerpt: "Διαδικαστικός και δηλωτικός προγραμμ�
 uri: "https://e-class.ionio.gr/courses/DCS246/"
 code: ΗΥ160
 semester: 7 
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2E
 ects: 4
+books:
+  - isbn_960726259X
+  - isbn_9789608729384
 ---
-
-
-Βιβλιογραφία: 
-  - ["Μητακίδης Γιώργος, “Από τη λογική στο λογικό προγραμματισμό και την Prolog”, Εκδόσεις ΚΑΡΔΑΜΙΤΣΑ, 1992."](https://service.eudoxus.gr/search/#a/id:24354/0)
-  - ["ΝΟΤΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ, “ΠΡΟΓΡΑΜΜΑΤΙΖΟΝΤΑΣ ΣΤΗ ΛΟΓΙΚΗ – PROLOG Α’ ΕΚΔΟΣΗ”, Εκδοσεις ΑΝΙΚΟΥΛΑ, 2008."](https://service.eudoxus.gr/search/#a/id:5417/0)
-  
 

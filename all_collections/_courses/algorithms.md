@@ -6,15 +6,12 @@ excerpt: "Η έννοια του αλγορίθμου και της πολυπλ
 uri: "https://e-class.ionio.gr/courses/DCS237/"
 code: ΗΥ020
 semester: 4
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_978_960_524_473_6
+  - isbn_978_960_218_350_2
 ---
 
-
-Βιβλιογραφία: 
-  - [“ΕΙΣΑΓΩΓΗ ΣΤΟΥΣ ΑΛΓΟΡΙΘΜΟΥΣ ΤΟΜΟΣ Ι", CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-225-1, 2009](https://service.eudoxus.gr/search/#a/id:59359780/0)
-  - [“Αλγόριθμοι", Rawlins Gregory J. E., Εκδόσεις Κριτική, ISBN 978-960-218-350-2, 2004](https://service.eudoxus.gr/search/#a/id:11463/0)
-  
-  
